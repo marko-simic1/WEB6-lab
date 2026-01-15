@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "company": "Infobip",
+    "position": "Junior Frontend",
+    "status": "Rejected",
+    "date": "2025-10-15"
+  },
+  {
+    "id": 2,
+    "company": "Rimac",
+    "position": "Junior Frontend",
+    "status": "Interview",
+    "date": "2025-10-20"
+  },
+  {
+    "id": 3,
+    "company": "Njuskalo",
+    "position": "Junior Frontend",
+    "status": "Rejected",
+    "date": "2025-10-10"
+  }
+]
